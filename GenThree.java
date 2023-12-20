@@ -18,7 +18,7 @@ class GenThree {
 
 	int minimum = Math.min(First,Math.min(Second,Third));
 
-	System.out.println("The minimal number generated was " + minimum );
+	System.out.println("The minimal generated number was " + minimum );
 
 
 
