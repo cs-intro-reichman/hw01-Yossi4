@@ -7,7 +7,7 @@ class Triangle {
 
 		boolean IsTriangle = (a+b>c) && (a+c>b) && (b+c>a);
 
-		System.out.println(a + " , " + b + " , " + c + ": " + IsTriangle);
+		System.out.println(a + ", " + b + ", " + c + ": " + IsTriangle);
 
 
 
