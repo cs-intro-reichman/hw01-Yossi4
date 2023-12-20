@@ -12,14 +12,14 @@ class GenThree {
 
 	//now we should print then all
 
-	System.out.println(First);
-	System.out.println(Second);
-	System.out.println(Third);
+	//System.out.println(First);
+	//System.out.println(Second);
+	//System.out.println(Third);
 
 	int minimum = Math.min(First,Math.min(Second,Third));
 
-	System.out.println("The minimal generated number was " + minimum );
-
+	//System.out.println("The minimal generated number was " + minimum );
+		System.out.println(First + "\n" +Second + "\n" + Third + "\nThe minimal generated number was " + minimum);
 
 
 	}
