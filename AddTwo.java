@@ -1,8 +1,18 @@
-/*
- * Adds two given integers and prints the result in a fancy way.
- */
-public class AddTwo {
-	public static void main(String[] args) {
-		// Put your code here	
+class AddTwo {
+	public static void main (String [] args){
+		int FirstNumber = Integer.parseInt(args[0]);
+		int SecondNumber = Integer.parseInt(args[1]);
+		int Sum = FirstNumber + SecondNumber;
+		System.out.println(FirstNumber + "+" + SecondNumber + "=" + Sum);
+
+
+
+
 	}
+
+
+
+
+
+
 }
