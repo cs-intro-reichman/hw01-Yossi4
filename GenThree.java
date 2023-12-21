@@ -20,7 +20,7 @@ class GenThree {
 
 	//System.out.println("The minimal generated number was " + minimum );
 		System.out.println(First + "\n" +Second + "\n" + Third + "\nThe minimal generated number was " + minimum);
-
+			//using one SOP instead of four
 
 	}
 
